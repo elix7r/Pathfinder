@@ -1,3 +1,3 @@
-module github.com/titor999/pathfinder
+module github.com/elix7r/pathfinder
 
-go 1.20
+go 1.21
